@@ -1,0 +1,219 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "isAdmin": true,
+      "balance": 1000,
+      "isActive": true,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "充值",
+          "amount": 1000,
+          "date": "2024-01-01",
+          "description": "初始充值"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "email": "user@example.com",
+      "password": "user123",
+      "isAdmin": false,
+      "balance": 100,
+      "isActive": true,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "充值",
+          "amount": 200,
+          "date": "2024-01-01",
+          "description": "初始充值"
+        },
+        {
+          "id": 2,
+          "type": "消费",
+          "amount": -100,
+          "date": "2024-01-15",
+          "description": "使用服务"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "alice",
+      "email": "alice@example.com",
+      "password": "alice123",
+      "isAdmin": false,
+      "balance": 500,
+      "isActive": true,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "充值",
+          "amount": 500,
+          "date": "2024-01-01",
+          "description": "初始充值"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "username": "bob",
+      "email": "bob@example.com",
+      "password": "bob123",
+      "isAdmin": false,
+      "balance": 200,
+      "isActive": false,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "充值",
+          "amount": 300,
+          "date": "2024-01-01",
+          "description": "初始充值"
+        },
+        {
+          "id": 2,
+          "type": "消费",
+          "amount": -100,
+          "date": "2024-01-10",
+          "description": "使用服务"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "username": "charlie",
+      "email": "charlie@example.com",
+      "password": "charlie123",
+      "isAdmin": false,
+      "balance": 300,
+      "isActive": true,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "充值",
+          "amount": 300,
+          "date": "2024-01-01",
+          "description": "初始充值"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "username": "david",
+      "email": "david@example.com",
+      "password": "david123",
+      "isAdmin": false,
+      "balance": 50,
+      "isActive": true,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "充值",
+          "amount": 100,
+          "date": "2024-01-01",
+          "description": "初始充值"
+        },
+        {
+          "id": 2,
+          "type": "消费",
+          "amount": -50,
+          "date": "2024-01-20",
+          "description": "使用服务"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "username": "emma",
+      "email": "emma@example.com",
+      "password": "emma123",
+      "isAdmin": false,
+      "balance": 800,
+      "isActive": true,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "充值",
+          "amount": 800,
+          "date": "2024-01-01",
+          "description": "初始充值"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "username": "frank",
+      "email": "frank@example.com",
+      "password": "frank123",
+      "isAdmin": false,
+      "balance": 150,
+      "isActive": false,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "充值",
+          "amount": 200,
+          "date": "2024-01-01",
+          "description": "初始充值"
+        },
+        {
+          "id": 2,
+          "type": "消费",
+          "amount": -50,
+          "date": "2024-01-05",
+          "description": "使用服务"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "username": "grace",
+      "email": "grace@example.com",
+      "password": "grace123",
+      "isAdmin": false,
+      "balance": 400,
+      "isActive": true,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "充值",
+          "amount": 400,
+          "date": "2024-01-01",
+          "description": "初始充值"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "username": "henry",
+      "email": "henry@example.com",
+      "password": "henry123",
+      "isAdmin": false,
+      "balance": 250,
+      "isActive": true,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "充值",
+          "amount": 300,
+          "date": "2024-01-01",
+          "description": "初始充值"
+        },
+        {
+          "id": 2,
+          "type": "消费",
+          "amount": -50,
+          "date": "2024-01-25",
+          "description": "使用服务"
+        }
+      ]
+    }
+  ]
+}

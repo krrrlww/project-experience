@@ -1,0 +1,101 @@
+<body>
+    <div class="box1">
+        <img src="images/webflow.png" class="logo">
+        <span class="steam">steam</span>
+        <span>查看</span>
+        <span>好友</span>
+        <span>游戏</span>
+        <span>帮助</span>
+        <img src="images/关闭栏.png" class="close">
+        <select>
+            <option select="selected">krkree</option>
+        </select>
+        <a>?</a>
+        <img src="images/喇叭.png" class="horn">
+    </div>
+    <div class="box2">
+        <img src="images/箭头.png">
+        <div class="nav">
+            <ul>
+                <li><a href="">商店</a></li>
+                <li><a href="">库</a></li>
+                <li><a href="">社区</a></li>
+                <li><a href="">KRKREE</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="box5">
+        <div class="box3">
+            <div class="box3-1">
+                <img src="images/game.png">
+                <img src="images/收藏2.png" class="change">
+            </div>
+            <div class="box3-2">
+                <select>
+                    <option select="selected">游戏</option>
+                    <option value="">工具</option>
+                </select>
+                <img src="images/时钟.png" class="clock">
+                <img src="images/round.png" class="round">
+                <img src="images/搜索.png" class="search">
+                <input type="text">
+                <img src="images/调整.png" class="adjust">
+            </div>
+            <div class="box3-3">
+                <a>—全部（5）</a>
+                <a href="#" class="gamelist"><img src="images/双人成行.png">双人成行</a>
+                <a href="#" class="gamelist"><img src="images/巫师.png">巫师三：狂猎</a>
+                <a href="#" class="gamelist"><img src="images/反恐.png">Counter-Strike</a>
+                <a href="#" class="gamelist"><img src="images/酷跑.png">Muse Dash</a>
+                <a href="#" class="gamelist"><img src="images/奥日.png">奥日与黑暗森林</a>
+            </div>
+        </div>
+        <div class="box4">
+            <div class="box4-1">
+                <div class="box4-1-1">
+                    <select class="one">
+                        <option select="selected">所有游戏（5）</option>
+                    </select>
+                    <a>排序方式:</a>
+                    <select class="two">
+                        <option select="selected">按字母顺序</option>
+                    </select>
+                    <img src="images/横线2.png">
+                </div>
+                <div class="box4-1-2">
+                    <img src="images/双人成行2.png">
+                    <img src="images/奥日2.png">
+                    <img src="images/巫师2.png">
+                    <img src="images/幽灵行者.png">
+                    <img src="images/跑酷2.png">
+                </div>
+            </div>
+            <div class="box4-2">
+                <img src="images/加号.png">
+                <a>添加新陈列架</a>
+            </div>
+            <div class="box4-3">
+                <select>
+                    <option select="selected">最近游戏</option>
+                </select>
+                <img src="images/横线.png">
+            </div>
+            <div class="box4-4">
+                <a>9月</a>
+            </div>
+            <div class="box4-5">
+                <img src="images/双人成行2.png">
+                <img src="images/巫师2.png">
+                <img src="images/奥日2.png">
+            </div>
+        </div>
+    </div>
+    <div class="box6">
+        <img src="images/添加游戏.png">
+        <a style="padding-left:15px;">添加游戏</a>
+        <img src="images/管理下载.png" style="padding-left:700px; ">
+        <a>管理下载</a>
+        <a style="float:right">好友与聊天</a>
+        <img src="images/好友与聊天.png" style="float:right">
+    </div>
+</body>
