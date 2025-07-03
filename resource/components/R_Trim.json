@@ -1,0 +1,85 @@
+   {
+	"shapes" : 
+	[
+		{
+			"Type" : "\u0798\u040e",
+			"endPos" : 
+			[
+				573,
+				271
+			],
+			"startPos" : 
+			[
+				555,
+				212
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				564,
+				191
+			],
+			"startPos" : 
+			[
+				564,
+				210
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				565,
+				291
+			],
+			"startPos" : 
+			[
+				565,
+				270
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				585,
+				224
+			],
+			"startPos" : 
+			[
+				543,
+				260
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				593,
+				232
+			],
+			"startPos" : 
+			[
+				580,
+				216
+			],
+			"thickness" : 2
+		},
+		{
+			"Text" : "R_Trim",
+			"TextAngle" : 0.0,
+			"Type" : "Text",
+			"startPos" : 
+			[
+				576,
+				246
+			]
+		}
+	]
+}

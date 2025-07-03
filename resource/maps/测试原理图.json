@@ -1,0 +1,159 @@
+   {
+	"components" : 
+	[
+		{
+			"Type" : "Power_10v",
+			"index" : 0,
+			"scale" : 1.0,
+			"startPos" : 
+			[
+				226,
+				231
+			]
+		},
+		{
+			"Type" : "R",
+			"index" : 1,
+			"scale" : 1.0,
+			"startPos" : 
+			[
+				323,
+				227
+			]
+		},
+		{
+			"Type" : "R_Variable",
+			"index" : 2,
+			"scale" : 1.0,
+			"startPos" : 
+			[
+				226,
+				289
+			]
+		}
+	],
+	"lines" : 
+	[
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				226,
+				272
+			],
+			"startPos" : 
+			[
+				226,
+				244
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				226,
+				179
+			],
+			"startPos" : 
+			[
+				226,
+				215
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				323,
+				179
+			],
+			"startPos" : 
+			[
+				226,
+				179
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				323,
+				214
+			],
+			"startPos" : 
+			[
+				323,
+				179
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				226,
+				334
+			],
+			"startPos" : 
+			[
+				226,
+				304
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				323,
+				334
+			],
+			"startPos" : 
+			[
+				226,
+				334
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				323,
+				240
+			],
+			"startPos" : 
+			[
+				323,
+				334
+			],
+			"thickness" : 2
+		}
+	],
+	"texts" : 
+	[
+		{
+			"Text" : "",
+			"TextAngle" : 0.0,
+			"Type" : "Text",
+			"startPos" : 
+			[
+				225,
+				256
+			]
+		},
+		{
+			"Text" : "\u04a2\u0294\u052d\ufffd\u037c",
+			"TextAngle" : 0.0,
+			"Type" : "Text",
+			"startPos" : 
+			[
+				721,
+				550
+			]
+		}
+	]
+}

@@ -1,0 +1,112 @@
+   {
+	"components" : 
+	[
+		{
+			"Type" : "Power_10v",
+			"index" : 0,
+			"scale" : 1.0,
+			"startPos" : 
+			[
+				280,
+				255
+			]
+		},
+		{
+			"Type" : "R_Variable",
+			"index" : 1,
+			"scale" : 1.0,
+			"startPos" : 
+			[
+				350,
+				259
+			]
+		}
+	],
+	"lines" : 
+	[
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				279,
+				188
+			],
+			"startPos" : 
+			[
+				279,
+				240
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				351,
+				188
+			],
+			"startPos" : 
+			[
+				279,
+				188
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				351,
+				243
+			],
+			"startPos" : 
+			[
+				351,
+				188
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				350,
+				300
+			],
+			"startPos" : 
+			[
+				350,
+				273
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				280,
+				300
+			],
+			"startPos" : 
+			[
+				350,
+				300
+			],
+			"thickness" : 2
+		},
+		{
+			"Type" : "Line",
+			"endPos" : 
+			[
+				280,
+				271
+			],
+			"startPos" : 
+			[
+				280,
+				300
+			],
+			"thickness" : 2
+		}
+	]
+}
